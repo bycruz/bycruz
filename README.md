@@ -1,11 +1,7 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DvvCz&hide_border=true&show_icons=true&bg_color=0000&text_color=666666&include_all_commits=true&rank_icon=github" height=180px width=55%>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DvvCz&hide_border=true&langs_count=6&layout=compact&hide=css,tcl&bg_color=0000" height=180px width=44%>
+  <img src="https://github-readme-stats.vercel.app/api?username=codebycruz&hide_border=true&show_icons=true&bg_color=0000&text_color=666666&include_all_commits=true&rank_icon=github" height=180px width=55%>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codebycruz&hide_border=true&langs_count=6&layout=compact&hide=css,tcl&bg_color=0000" height=180px width=44%>
 </div>
-
-I follow a philosophy of simple code, for the sake of the user and the developer in maintaining it.  
-
-This can either mean using no dependencies for a library, or as many well established dependencies as needed for a program.
 
 <!--
 ## Tooling
