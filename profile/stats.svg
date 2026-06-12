@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Oncelock's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 66, Total Commits  : 3054, Total PRs: 63, Total Issues: 344, Contributed to (last year): 27</desc>
+        <desc id="descId">Total Stars Earned: 66, Total Commits  : 3048, Total PRs: 63, Total Issues: 344, Contributed to (last year): 27</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 90.9059947339406;
+        stroke-dashoffset: 90.92701426955689;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >3.1k</text>
+      >3k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
